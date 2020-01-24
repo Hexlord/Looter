@@ -3,8 +3,8 @@
 
 
 ## Status
-**WIP** - not works due to LootItem(slot) being disabled
+**WIP** - not works on new WOW clients due to LootItem(slot) being disabled for security reasons
 
-## Installation
+## Installation (on old WOW clients)
 
 Extract into Interface/Addons, create folder "Looter" there
